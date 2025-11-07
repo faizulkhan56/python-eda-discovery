@@ -1,0 +1,8 @@
+# Minimal, reproducible environment for the EDA project
+jupyter
+ipykernel
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn

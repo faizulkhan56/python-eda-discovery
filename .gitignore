@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+*.egg-info/
+
+# Data / artifacts
+data/*.csv
+artifacts/
+mlruns/

@@ -79,9 +79,10 @@ python scripts/download_data.py
 ```
 **Option B — curl/wget:**
 ```bash
-curl -o data/grades.csv "https://raw.githubusercontent.com/Konami33/MlOps-Dataset/main/Data/grades.csv"
+curl -o data/grades.csv "https://raw.githubusercontent.com/faizulkhan56/python-eda-discovery/main/grades.csv"
+                    
 # or
-wget -O data/grades.csv "https://raw.githubusercontent.com/Konami33/MlOps-Dataset/main/Data/grades.csv"
+wget -O data/grades.csv "https://raw.githubusercontent.com/faizulkhan56/python-eda-discovery/main/grades.csv"
 ```
 
 6) **Start Jupyter** and open the notebook:
